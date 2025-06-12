@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rijal Lullabib</h1>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🛠️ Tools & Technologies
-
 <p align="left">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter"/>
