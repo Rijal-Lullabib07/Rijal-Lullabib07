@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rijal Lullabib</h1>
-<h3 align="center">📱 Mobile Developer | 💻 AI & Machine Learning Enthusiast | 🌐 Open Source Contributor</h3>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 I’m currently working on **AI-powered Android Apps**
-- 🌱 I’m currently learning **Flutter, Kotlin, TensorFlow Lite**
-- 💬 Ask me about **Mobile Development & Machine Learning**
-- 📫 How to reach me: **rijal.lullabib@gmail.com**
-- ⚡ Fun fact: I love solving real-world problems with code
-
----
 
 ### 🛠️ Tools & Technologies
 
